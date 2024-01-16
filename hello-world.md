@@ -4,6 +4,10 @@ Tekstiä.
 
 ## Peruna
 
+[Pixabay](https://pixabay.com/)
+
+![Peruna](potato.jpg)
+
 Solid octo guacamole. Solid octo guacamole. Solid octo guacamole. Solid octo guacamole. Solid octo guacamole. Solid octo guacamole. Solid octo guacamole. Solid octo guacamole. Solid octo guacamole. Solid octo guacamole.
 
 ### Pieni peruna
